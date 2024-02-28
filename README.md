@@ -1,16 +1,14 @@
-### Hi there 👋
+### Seja bem-vindo, eu sou o André Freitas!! 👋
 
-<!--
-**AndreFreitasz/AndreFreitasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![Linha Animada](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif)
+ 
+<ul>
+  <li>🖥️ Desenvolvedor Full Stack no KaBuM!</li>
+  <li>📚 Graduando Ciências da Computação no 3º semestre</li>
+  <li>👨‍💻 Atualmente estou em busca de aprimorar meus conhecimentos em Node.JS e PHP</li>
+</ul>
 
-Here are some ideas to get you started:
+![Linha Animada](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
