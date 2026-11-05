@@ -11,20 +11,20 @@
 
 <br>
 
-<img src="assets/stats.svg" alt="300 mil e-mails e 200 mil mensagens de WhatsApp a cada 7 dias, cerca de 10 milhões de push em 6 meses, 4 anos de experiência" width="100%">
+<img src="assets/stats.svg" alt="3 aplicações no ar, 2 APIs REST, 100 horas de formação em arquitetura e 81 horas de curso full stack" width="100%">
 
 </div>
 
 ## Sobre
 
-Engenheiro de software focado em backend, com experiência em Full Stack. Construo e mantenho os sistemas que avisam o cliente sobre o pedido no KaBuM!: e-mail, WhatsApp e push, em alto volume e com entrega confiável.
+Engenheiro de software com foco em backend e experiência em Full Stack. Gosto de construir produtos completos: modelar o banco, desenhar a API, montar a interface e colocar tudo no ar.
 
-Trabalho com arquitetura orientada a eventos, filas e mensageria, e gosto de código limpo, testado e fácil de mudar.
+Meus projetos pessoais são onde eu pratico o que estudo: arquitetura limpa, testes, autenticação e deploy. Prefiro código legível, testado e fácil de mudar.
 
 ## Stack
 
 <div align="center">
-<img src="assets/stack.svg" alt="Stack: Node.js, NestJS, TypeScript, Python, AWS SQS e SES, Kafka, Firebase, Docker, PostgreSQL, MySQL, Datadog, React, Next.js, React Native, Clean Architecture, DDD, TDD" width="100%">
+<img src="assets/stack.svg" alt="Stack: Node.js, NestJS, TypeScript, Python, AWS SQS e SES, Kafka, Docker, PostgreSQL, MySQL, React, Next.js, React Native, Clean Architecture, DDD, TDD" width="100%">
 </div>
 
 ## Projetos
