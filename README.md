@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="André Freitas, engenheiro de software backend e full stack" width="100%">
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/andrefreitasdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:dre.freitas23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;<a href="https://wa.me/5519999683757"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/andre.freitaszz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
@@ -11,8 +11,6 @@
 ## Sobre
 
 Engenheiro de software com foco em backend e experiência em Full Stack. Gosto de construir produtos completos: modelar o banco, desenhar a API, montar a interface e colocar tudo no ar.
-
-Meus projetos pessoais são onde eu pratico o que estudo: arquitetura limpa, testes, autenticação e deploy. Prefiro código legível, testado e fácil de mudar.
 
 ## Stack
 
