@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="André Freitas, engenheiro de software backend e full stack" width="100%">
+<img src="assets/banner.svg" alt="André Freitas, engenheiro de software backend e full stack, entusiasta, proativo e profissional" width="100%">
 
 <br>
 
